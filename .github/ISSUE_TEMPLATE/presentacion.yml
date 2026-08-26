@@ -1,0 +1,56 @@
+name: Presentación (Sesión 1)
+description: Preséntate y registra la dirección de testnet que creaste en la Sesión 1.
+title: "Presentación: "
+labels: ["sesion-1", "presentacion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bienvenido a **Stellar Campus Barranquilla**. Llena los campos y publica.
+        Toma dos minutos.
+
+        No necesitas poner tu usuario de GitHub: ya lo sabemos, es la cuenta con la
+        que estás abriendo este issue.
+
+  - type: input
+    id: nombre
+    attributes:
+      label: Nombre completo
+      placeholder: María Fernanda Pérez
+    validations:
+      required: true
+
+  - type: dropdown
+    id: sesion
+    attributes:
+      label: ¿A cuál sesión asististe?
+      options:
+        - Miércoles 26 de agosto — Universidad de la Costa (CUC)
+        - Jueves 27 de agosto — Universidad del Norte
+    validations:
+      required: true
+
+  - type: input
+    id: direccion
+    attributes:
+      label: Tu dirección pública de testnet
+      description: La que creaste en Stellar Lab. Empieza por G y tiene 56 caracteres.
+      placeholder: GXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    validations:
+      required: true
+
+  - type: input
+    id: hash
+    attributes:
+      label: Hash de tu transacción (opcional)
+      description: Los 64 caracteres que te devolvió el Lab al enviar los 10 XLM.
+    validations:
+      required: false
+
+  - type: textarea
+    id: expectativa
+    attributes:
+      label: ¿Qué esperas del programa?
+      description: Una o dos líneas. Qué te trajo, qué te gustaría construir.
+    validations:
+      required: true
