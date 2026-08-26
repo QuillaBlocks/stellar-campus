@@ -49,7 +49,7 @@ solo error hace que la transacción falle.
 
 | Sesión | Sede | Dirección de testnet |
 | --- | --- | --- |
-| Sesión 1 · miércoles 26 de agosto | Universidad de la Costa | `RECOLECTORA_CUC` |
+| Sesión 1 · miércoles 26 de agosto | Universidad de la Costa | `GCNOD2V5JFF4ZDM6QDR55U2C7RMFEOPAMDLDDECLLSHUYOZ5FBRED2DM` |
 | Sesión 1 · jueves 27 de agosto | Universidad del Norte | _se publica el jueves_ |
 
 Verifica tu transacción en
