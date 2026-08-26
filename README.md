@@ -16,7 +16,7 @@ pueden participar.
 
 Una sola cosa y toma dos minutos:
 
-### 👉 [Abre tu issue de presentación aquí](https://github.com/QuillaBlocks/stellar-campus-barranquilla/issues/new?template=presentacion.yml)
+### 👉 [Abre tu issue de presentación aquí](https://github.com/QuillaBlocks/stellar-campus/issues/new?template=presentacion.yml)
 
 Llena los campos, incluida la dirección de testnet que creaste hoy, y publica.
 Con eso confirmamos que tu entorno quedó funcionando y arrancamos la próxima sesión sin
@@ -28,7 +28,7 @@ Quien haga la tarea queda primero en la fila para el reto con premio de la Sesi�
 > necesitar el fork sí o sí, porque la tarea será un pull request.
 
 Antes de abrir el tuyo, mira el
-[issue de ejemplo](https://github.com/QuillaBlocks/stellar-campus-barranquilla/issues?q=is%3Aissue+label%3Aejemplo) para ver el formato.
+[issue de ejemplo](https://github.com/QuillaBlocks/stellar-campus/issues?q=is%3Aissue+label%3Aejemplo) para ver el formato.
 
 ---
 

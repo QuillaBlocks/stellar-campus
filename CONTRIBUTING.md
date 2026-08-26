@@ -23,8 +23,8 @@ fix-typo-readme
 Si prefieres trabajar en tu máquina:
 
 ```bash
-git clone https://github.com/TU-USUARIO/stellar-campus-barranquilla.git
-cd stellar-campus-barranquilla
+git clone https://github.com/TU-USUARIO/stellar-campus.git
+cd stellar-campus
 git checkout -b nombre-de-tu-rama
 # haz tus cambios
 git add .
