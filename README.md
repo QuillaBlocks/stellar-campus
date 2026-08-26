@@ -35,7 +35,7 @@ Antes de abrir el tuyo, mira el
 ## Formulario de la sesión
 
 Además del issue, llena el formulario con tu nombre, correo, usuario de GitHub, clave
-pública y el hash de tu transacción:
+pública y el link de tu transacción:
 
 **https://forms.gle/bubf5E2DuNHuH9acA**
 
