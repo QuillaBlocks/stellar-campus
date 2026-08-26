@@ -37,7 +37,7 @@ Antes de abrir el tuyo, mira el
 Además del issue, llena el formulario con tu nombre, correo, usuario de GitHub, clave
 pública y el hash de tu transacción:
 
-**FORMULARIO_URL**
+**https://forms.gle/bubf5E2DuNHuH9acA**
 
 ---
 
