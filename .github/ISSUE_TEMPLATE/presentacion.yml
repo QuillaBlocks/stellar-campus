@@ -48,9 +48,24 @@ body:
       required: false
 
   - type: textarea
+    id: perfil
+    attributes:
+      label: Cuéntanos de ti
+      description: >-
+        ¿Estudias, trabajas, o las dos? ¿Qué carrera o profesión? ¿A qué te dedicas
+        hoy? Si programas, en qué lenguajes te mueves; y si no programas, tampoco pasa
+        nada — aquí hay gente de todos los perfiles. Dos o tres líneas bastan.
+      placeholder: >-
+        Estudio Ingeniería de Sistemas en la CUC, voy en séptimo semestre. Trabajo
+        medio tiempo haciendo soporte y me defiendo en Python y algo de JavaScript.
+        Nunca había tocado nada de blockchain antes de hoy.
+    validations:
+      required: true
+
+  - type: textarea
     id: expectativa
     attributes:
       label: ¿Qué esperas del programa?
-      description: Una o dos líneas. Qué te trajo, qué te gustaría construir.
+      description: Una o dos líneas. Qué te trajo y qué te gustaría construir.
     validations:
       required: true
