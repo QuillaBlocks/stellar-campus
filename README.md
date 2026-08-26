@@ -3,8 +3,8 @@
 Programa de tres sesiones prácticas para aprender a construir sobre la blockchain de
 **Stellar**, en la Universidad de la Costa y en la Universidad del Norte.
 
-Organiza [QuillaBlocks](https://github.com/QuillaBlocks) con el apoyo de la
-[Blockchain Acceleration Foundation](https://thebaf.io).
+Organiza [QuillaBlocks](https://quillablocks.org) con el apoyo de la
+[Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/).
 
 La convocatoria es abierta. No hay que ser estudiante de ninguna de las dos
 universidades: egresados, profesionales y cualquier persona curiosa de la comunidad
