@@ -124,11 +124,6 @@ universidad.
 | [GitHub Codespaces](https://github.com/features/codespaces) | entorno de desarrollo en el navegador, sin instalar nada | Sesión 2 y 3 |
 | [Stellar CLI](https://developers.stellar.org/docs/tools/developer-tools/cli/stellar-cli) | compilar y desplegar contratos Soroban | Sesión 3 |
 
-## Repositorios relacionados
-
-- [`stellar-sdk-examples`](https://github.com/QuillaBlocks/stellar-sdk-examples) — ejemplos del SDK de JavaScript
-- [`crowdfunding-dapp`](https://github.com/QuillaBlocks/crowdfunding-dapp) — la dApp de Crowdfunding de la Sesión 2
-
 ## Licencia
 
 [MIT](./LICENSE). Todo el material del programa es libre de reusar.
