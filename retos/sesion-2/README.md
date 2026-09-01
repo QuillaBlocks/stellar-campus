@@ -3,7 +3,7 @@
 La tarea entre la Sesión 2 y la Sesión 3 es **escoger un reto, resolverlo y
 enviarlo como pull request** a este repositorio.
 
-Hay seis retos de dificultad escalonada. Escoge **uno** — el que te quede
+Hay nueve retos de dificultad escalonada. Escoge **uno** — el que te quede
 cómodo. No hay premio por escoger el difícil, y sí hay reconocimiento público
 en la Sesión 3 para las mejores contribuciones de cada universidad.
 
@@ -149,6 +149,66 @@ No hay que escribir Rust. Hay que **entender** el contrato. Este reto es la
 mejor preparación para la Sesión 3.
 
 **Qué se evalúa:** que el análisis sea correcto y concreto.
+
+---
+
+### 🟢 Reto 7 — Dibuja el flujo de una contribución (fácil, sin código)
+
+Cuando aprietas "Aportar" en la dApp pasan como seis cosas antes de que tu XLM
+llegue al contrato. Dibújalas.
+
+Haz un diagrama que muestre el recorrido completo: **tú → el navegador →
+Freighter → el RPC → el contrato → el ledger**, y qué pasa en cada paso.
+
+Puedes entregarlo como imagen, o mejor aún en
+[Mermaid](https://mermaid.js.org/syntax/sequenceDiagram.html) dentro de tu
+`README.md` — GitHub lo renderiza solo y así se puede revisar en el diff.
+
+Pista: la slide de la sesión y el archivo
+[`crowdfunding.ts`](https://github.com/QuillaBlocks/crowdfunding-dapp/blob/main/frontend/lib/crowdfunding.ts)
+tienen todo lo que necesitas.
+
+**Qué se evalúa:** que el flujo esté completo y en el orden correcto. No que sea
+bonito.
+
+---
+
+### 🟢 Reto 8 — Escribe la guía de instalación local (fácil)
+
+En la sesión usamos Codespaces para no perder tiempo instalando. Pero varios van
+a querer trabajar en su propia máquina.
+
+Escribe la guía para montar `stellar-sdk-examples` en local, desde cero:
+qué instalar, en qué orden, cómo configurar el `.env`, y cómo verificar que
+quedó bien.
+
+**Tiene que estar probada por ti**, en tu sistema operativo. Di cuál usaste.
+Si algo te falló, ponlo también — eso es lo más valioso de la guía.
+
+**Qué se evalúa:** que alguien más pueda seguirla sin trabarse.
+
+---
+
+### 🟡 Reto 9 — ¿Esta cuenta puede recibir USDC? (medio, SDK)
+
+En Stellar una cuenta no puede recibir un asset que no sea XLM hasta que
+establece una **trustline** con ese asset. Por eso los premios de la Sesión 1 se
+pagaron en XLM y no en USDC.
+
+Escribe un script que reciba una dirección y responda:
+
+- ¿La cuenta existe en la red?
+- ¿Tiene trustline de USDC?
+- Si la tiene, ¿cuál es su balance y cuánto más puede recibir?
+- Si no la tiene, ¿qué tendría que hacer?
+
+Pruébalo con tu propia cuenta de testnet y con la de un compañero.
+
+Pista: Horizon devuelve los `balances` de una cuenta, y cada trustline aparece
+ahí con su `asset_code` y su `asset_issuer`.
+
+**Qué se evalúa:** que responda bien los cuatro casos, incluido el de una cuenta
+que no existe.
 
 ---
 
