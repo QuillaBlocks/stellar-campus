@@ -79,7 +79,7 @@ cuenta nuestra.
 
 | Dato | Valor |
 | --- | --- |
-| dApp | [crowdfunding-dapp-frontend.vercel.app](https://crowdfunding-dapp-frontend.vercel.app) |
+| dApp | [vaca.quillablocks.org](https://vaca.quillablocks.org) |
 | Contrato | `CBVSLGKN7JQGPL3II4VIUXIY5NZ72JU2A6M4W3XUXMTW3HCFVHZ4FILW` |
 | Código del contrato | [crowdfunding-dapp](https://github.com/QuillaBlocks/crowdfunding-dapp) |
 
@@ -153,7 +153,7 @@ universidad.
 | [Freighter](https://freighter.app) | wallet en el navegador | Sesión 1 y 2 |
 | [GitHub Codespaces](https://github.com/features/codespaces) | entorno de desarrollo en el navegador, sin instalar nada | Sesión 2 y 3 |
 | [Stellar CLI](https://developers.stellar.org/docs/tools/developer-tools/cli/stellar-cli) | compilar y desplegar contratos Soroban | Sesión 3 |
-| [dApp del Pool](https://crowdfunding-dapp-frontend.vercel.app) | la vaca on-chain a la que contribuimos | Sesión 2 |
+| [dApp del Pool](https://vaca.quillablocks.org) | la vaca on-chain a la que contribuimos | Sesión 2 |
 | [Ejemplos del SDK](https://github.com/QuillaBlocks/stellar-sdk-examples) | scripts listos para correr en Codespaces | Sesión 2 y 3 |
 
 ## Licencia
