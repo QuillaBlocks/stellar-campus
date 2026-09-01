@@ -80,10 +80,10 @@ cuenta nuestra.
 | Dato | Valor |
 | --- | --- |
 | dApp | [vaca.quillablocks.org](https://vaca.quillablocks.org) |
-| Contrato | `CBMGTFHK3PAPBPIORCF4XBRWCXDB3SDE5RSFQ7RVW2EJ6L4DPAQU5R2F` |
+| Contrato | `CBMBKCV3I474M7MLNGPTIVSDK53IGGQPT6YOS2P7SNKMQNYX65L2CZXJ` |
 | Código del contrato | [crowdfunding-dapp](https://github.com/QuillaBlocks/crowdfunding-dapp) |
 
-[Ver el contrato en Stellar Expert](https://stellar.expert/explorer/testnet/contract/CBMGTFHK3PAPBPIORCF4XBRWCXDB3SDE5RSFQ7RVW2EJ6L4DPAQU5R2F)
+[Ver el contrato en Stellar Expert](https://stellar.expert/explorer/testnet/contract/CBMBKCV3I474M7MLNGPTIVSDK53IGGQPT6YOS2P7SNKMQNYX65L2CZXJ)
 
 ---
 
