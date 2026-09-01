@@ -32,6 +32,20 @@ Antes de abrir el tuyo, mira el
 
 ---
 
+## Tu tarea después de la Sesión 2
+
+Escoge **uno** de los seis retos, resuélvelo y envíalo como pull request.
+
+### 👉 [Ver los retos de la Sesión 2](./retos/sesion-2)
+
+Hay de todo: dos sin código, dos de SDK y dos avanzados. Las mejores
+contribuciones de cada universidad se reconocen en vivo en la Sesión 3.
+
+**Sin instalar nada** — todo se puede hacer desde el navegador:
+[abrir en Codespaces](https://codespaces.new/QuillaBlocks/stellar-sdk-examples?quickstart=1)
+
+---
+
 ## Formulario de la sesión
 
 Además del issue, llena el formulario con tu nombre, correo, usuario de GitHub, clave
@@ -54,6 +68,22 @@ solo error hace que la transacción falle.
 
 Verifica tu transacción en
 [Stellar Expert (testnet)](https://stellar.expert/explorer/testnet).
+
+---
+
+## El Pool Comunitario
+
+La vaca on-chain de la Sesión 2. Es un contrato Soroban real corriendo en
+testnet: contribuyes desde tu wallet y el contrato guarda los fondos, no una
+cuenta nuestra.
+
+| Dato | Valor |
+| --- | --- |
+| dApp | [crowdfunding-dapp-frontend.vercel.app](https://crowdfunding-dapp-frontend.vercel.app) |
+| Contrato | `CBVSLGKN7JQGPL3II4VIUXIY5NZ72JU2A6M4W3XUXMTW3HCFVHZ4FILW` |
+| Código del contrato | [crowdfunding-dapp](https://github.com/QuillaBlocks/crowdfunding-dapp) |
+
+[Ver el contrato en Stellar Expert](https://stellar.expert/explorer/testnet/contract/CBVSLGKN7JQGPL3II4VIUXIY5NZ72JU2A6M4W3XUXMTW3HCFVHZ4FILW)
 
 ---
 
@@ -106,7 +136,7 @@ proyecto de tu equipo.
 | Sesión | Universidad de la Costa | Universidad del Norte |
 | --- | --- | --- |
 | Sesión 1 | miércoles 26 de agosto | jueves 27 de agosto |
-| Sesión 2 | semana del 1 al 3 de septiembre | semana del 1 al 3 de septiembre |
+| Sesión 2 | jueves 3 de septiembre | martes 1 de septiembre |
 | Sesión 3 | semana del 8 al 10 de septiembre | semana del 8 al 10 de septiembre |
 
 La hora exacta de cada sesión se confirma por los canales de QuillaBlocks y de cada
@@ -123,6 +153,8 @@ universidad.
 | [Freighter](https://freighter.app) | wallet en el navegador | Sesión 1 y 2 |
 | [GitHub Codespaces](https://github.com/features/codespaces) | entorno de desarrollo en el navegador, sin instalar nada | Sesión 2 y 3 |
 | [Stellar CLI](https://developers.stellar.org/docs/tools/developer-tools/cli/stellar-cli) | compilar y desplegar contratos Soroban | Sesión 3 |
+| [dApp del Pool](https://crowdfunding-dapp-frontend.vercel.app) | la vaca on-chain a la que contribuimos | Sesión 2 |
+| [Ejemplos del SDK](https://github.com/QuillaBlocks/stellar-sdk-examples) | scripts listos para correr en Codespaces | Sesión 2 y 3 |
 
 ## Licencia
 
