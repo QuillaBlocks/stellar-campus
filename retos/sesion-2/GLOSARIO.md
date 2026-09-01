@@ -2,8 +2,12 @@
 
 Términos que aparecen en el programa, explicados en corto y en español.
 
-Este archivo se construye entre todos: el [Reto 1](./README.md#-reto-1--glosario-fácil-sin-código)
-consiste en agregar tres términos. Mantén el orden alfabético.
+Este archivo se construye entre todos, pero **no lo edites directamente**: el
+[Reto 1](./README.md) se entrega en tu propia carpeta, como
+`soluciones/TU-USUARIO/glosario.md`. Si quince personas editan este archivo a la
+vez, los pull requests chocan entre sí.
+
+Después de la Sesión 3 consolidamos aquí todos los aportes.
 
 ---
 

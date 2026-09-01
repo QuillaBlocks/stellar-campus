@@ -7,6 +7,11 @@ Hay seis retos de dificultad escalonada. Escoge **uno** — el que te quede
 cómodo. No hay premio por escoger el difícil, y sí hay reconocimiento público
 en la Sesión 3 para las mejores contribuciones de cada universidad.
 
+**Varios pueden escoger el mismo reto.** No hay que "reservarlo" ni avisar.
+Cada quien entrega en su propia carpeta, así que nunca se pisan entre ustedes
+y tampoco compiten por un cupo. Diez soluciones al mismo reto son diez formas
+distintas de resolverlo, y eso es justamente lo interesante de revisarlas.
+
 ## Cómo entregar
 
 1. Haz **fork** de este repositorio.
@@ -48,12 +53,19 @@ trabajar local si prefieres.
 
 ### 🟢 Reto 1 — Glosario (fácil, sin código)
 
-Agrega **tres términos** a `retos/sesion-2/GLOSARIO.md` con una definición
-corta y en tus palabras. Ejemplos de términos que faltan: *stroop, trustline,
-anchor, SAC, TTL, quorum slice, Wasm, ledger, Friendbot*.
+Escribe **tres términos** con su definición corta y en tus palabras, en un
+archivo `glosario.md` dentro de **tu carpeta**.
+
+Términos que hacen falta: *stroop, trustline, anchor, SAC, TTL, quorum slice,
+Wasm, ledger, Friendbot, keypair, testnet, Horizon, RPC, deadline, Soroban*.
+Escoge tres que no estén ya en [`GLOSARIO.md`](./GLOSARIO.md).
 
 No vale copiar y pegar de la documentación. La gracia es explicarlo como se lo
-explicarías a un compañero.
+explicarías a un compañero que llegó tarde.
+
+> Los escribes en tu carpeta, no en `GLOSARIO.md` directamente. Ese archivo es
+> compartido: si quince personas lo editan a la vez, los pull requests chocan.
+> Después de la Sesión 3 consolidamos todos los aportes ahí.
 
 **Qué se evalúa:** claridad y que sea correcto.
 
