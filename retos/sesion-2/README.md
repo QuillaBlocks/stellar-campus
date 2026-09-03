@@ -41,7 +41,7 @@ trabajar local si prefieres.
 
 | Dato | Valor |
 | --- | --- |
-| Contrato del Pool Comunitario | `CBMBKCV3I474M7MLNGPTIVSDK53IGGQPT6YOS2P7SNKMQNYX65L2CZXJ` |
+| Contrato del Pool Comunitario | `CDF5IJWNCGNPBWTFCW3PWRXKPWZTPKQSHHRRYTSSCXKQ37U2CPDONSZ2` |
 | Red | testnet |
 | RPC | `https://soroban-testnet.stellar.org` |
 | Horizon | `https://horizon-testnet.stellar.org` |
